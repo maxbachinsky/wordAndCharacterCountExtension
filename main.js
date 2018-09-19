@@ -8,4 +8,4 @@ for (i = 0; i < highlight.length; i++){
   }
 
 }
-alert("The word count is: "+ count\n"The character count is: "+highlight.length);
+alert("The word count is: "+ count+".\nThe character count is: "+highlight.length+".");
