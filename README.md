@@ -1,2 +1,2 @@
 # wordAndCharacterCountExtension
-Please place the code in a bookmark, highlight a specified amount of text on the webpage and hit click on the bookmark. Should return the word count and character count.
+Unpacked chrome extension to calculate the number of characters highlighted and the total word count selected. To run, download the files, place them in a single folder, go to "manage extensions" in chrome, turn on developer tools and load unpacked extension.

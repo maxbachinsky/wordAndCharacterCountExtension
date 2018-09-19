@@ -7,4 +7,11 @@ for (i = 0; i < highlight.length; i++){
   }
 
 }
+if (highlight.substring(highlight.length-1).localeCompare(" ")==0){
+  count--;
+}
+
+if (highlight.substring(0,1).localeCompare(" ")==0){
+  count--;
+}
 alert("The word count is: "+ count+".\n" +"The character count is: "+highlight.length+".");
